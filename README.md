@@ -1,4 +1,4 @@
-# Plugin and Server Development Tools for Genisys
+# Plugin and Server Development Tools for T-STAR
 
 [![Travis-CI](https://travis-ci.org/iTXTech/DevTools.svg?branch=master)](https://travis-ci.org/iTXTech/DevTools)
 [![GitLab CI](https://gitlab.com/iTXTech/DevTools/badges/master/build.svg)](https://gitlab.com/itxtech/DevTools/pipelines?scope=branches)
